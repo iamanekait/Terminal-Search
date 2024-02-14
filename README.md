@@ -1,7 +1,3 @@
-Sure! Here's a GitHub README for the provided Python script:
-
----
-
 # Google Search from Terminal
 
 This Python script allows you to perform Google searches directly from the terminal and view the search results in your default web browser.
@@ -57,7 +53,3 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README with additional information or formatting as needed.
